@@ -1,5 +1,7 @@
 # Well hello there
 
+> **Note**: Considering the fact that you are a part of the ArcOS organization, I must point you towards our discord server where most common discussions take place: [ArcOS Discord](https://discord.gg/ARjRM6uNqf)
+
 You're currently reading the ArcOS Private Readme for members of the organization. As a reminder, ArcOS is a project in which we aim to create an Operating System Environment (OSE) in your browser. This readme is for those who work on ArcOS.
 
 Oh, by the way, **Thank you** for developing ArcOS. All help we can get is greatly appreciated.
