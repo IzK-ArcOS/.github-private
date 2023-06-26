@@ -10,18 +10,12 @@ You're currently reading the ArcOS Private Readme for members of the organizatio
 
 Oh, by the way, **Thank you** for developing ArcOS. All help we can get is greatly appreciated.
 
-## ~~ArcOS... In Electron?~~
+## ArcOS as a Desktop App
+I still stand by the fact that the "immersive" concept for ArcOS (aka running in fullscreen and isolating from the rest of the underlying OS) is a fun idea that has to be implemented (spoiler alert: it's implemented :D)
 
-~~ArcOS currently runs in your browser. You go to a runtime URL in your browser and you're there. No need to install anything or run any commands, it's as easy as that. Though, as fun as that may seem, this won't suffice forever. My vision for ArcOS back in February of 2021 was to make it a fullscreen immersive experience by using the Electron framework. That is how it was for over a year before I abandoned that idea in favour of maintainability and code clarity.~~
-
-I still stand by the fact that this "immersive" concept is a fun idea that must be educated at some point.
-
-~~To do this, we'll be bundling the ArcOS backend and ArcOS frontend into one Electron application just like I did in my `SchoolSystem-*` project. There we ran the API on the NodeJS runtime and just displayed the frontend in the Electron runtime. In that project the frontend was set to always connect to `localhost:2804`, which is where the `SchoolSystem-API-v1` was pointed to in the NodeJS runtime.~~
-
-With ArcOS I want to take a similar approach. Have a backend running on the NodeJS instance and then connect the frontend to the backend automatically. Though, I don't want to create a seperate repository for it. With SchoolSystem I had a frontend for the desktop app and a frontend for the web version. With ArcOS, I want to be able to toggle the web version to the desktop version on command, without the need for creating another sub-project within this organization.
-
-~~I'm thinking of using the `navigator.userAgent` variable to allow the frontend to detect if it's running in the electron app or not. For instance, we can add a string to the userAgent which can then be detected by the frontend:~~
+With ArcOS I want to take a similar approach. Have a backend running on NodeJS and then connect the frontend to the backend using some kind of user specified API address. Though, I don't want to create a seperate repository for the Desktop Frontend. With another project of mine, SchoolSystem, I had a frontend for the desktop app and a frontend for the web version. With ArcOS, I want to be able to use the same `ArcOS-Frontend` repository for both the web version and desktop app. (oh this happened already)
 
 ## ...Why?
 
-Because. Just, because.
+> Because. Just, because.
+is the only logical response to that question, whenever someone asks it.
