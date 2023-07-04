@@ -10,6 +10,9 @@ You're currently reading the ArcOS Private Readme for members of the organizatio
 
 Oh, by the way, **Thank you** for developing ArcOS. All help we can get is greatly appreciated.
 
+## An important note
+Any and all code written in this organization, either public or private, should at ALL TIMES be accessible by the rest of the organization. Do not isolate seperate repositories from individual team members.
+
 ## ArcOS as a Desktop App
 I still stand by the fact that the "immersive" concept for ArcOS (aka running in fullscreen and isolating from the rest of the underlying OS) is a fun idea that has to be implemented (spoiler alert: it's implemented :D)
 
