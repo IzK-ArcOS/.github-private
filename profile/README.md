@@ -10,6 +10,9 @@ You're currently reading the ArcOS Private Readme for members of the organizatio
 
 Oh, by the way, **Thank you** for developing ArcOS. All help we can get is greatly appreciated.
 
+## The Policy
+When developing ArcOS, be sure to follow the [ArcOS Policy](./POLICY.md) at all times.
+
 ## An important note
 Any and all code written in this organization, either public or private, should at ALL TIMES be accessible by the rest of the organization. Do not isolate seperate repositories from individual team members.
 
