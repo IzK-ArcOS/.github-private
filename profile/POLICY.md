@@ -19,9 +19,9 @@ In this document follows a list of policies which ArcOS developers are required 
 | The Board | Izaak |
 | BDT | Space, Izaak |
 | FDT | Space, Izaak |
-| LDT | Izaak |
-| DT | Izaak |
-| QC | Blocky, Siege, Space, Izaak |
+| LDT | Izaak, Siege |
+| DT | Izaak, Siege |
+| QC | Siege, Izaak |
 
 
 The Policy
