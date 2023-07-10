@@ -24,7 +24,10 @@ In this document follows a list of policies which ArcOS developers are required 
 | QC | Siege, Izaak |
 
 
-The Policy
+## The Policy
+
+### Failure to comply with The Policy might lead to a warning or a temporal/permanent termination from the ArcOS Development team depending on severity.
+
 - Applications which are created by external parties that are intended to be built-in to the final frontend are required to be delivered to the frontend repository through a pull request so that it can be checked and later merged into the _master_ branch.
 - Major changes to the ArcOS general user interface must be coordinated with the Board before the changes can have their development started. If the Board denies the UI change then the development cycle of said change is prohibited from starting or must be seized as quickly as possible. Do not waste time on features that won’t make it to production.
 - If you discover a major bug during development that requires immediate attention, create an issue on the Frontend or Backend and notify the responsible teams
