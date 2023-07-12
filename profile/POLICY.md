@@ -26,7 +26,7 @@ In this document follows a list of policies which ArcOS developers are required 
 
 ## The Policy
 
-> Note: Failure to comply with The Policy might lead to a warning or a temporal/permanent termination from the ArcOS Development team depending on severity.
+> **Note**: Failure to comply with The Policy might lead to a warning or a temporal/permanent termination from the ArcOS Development team depending on severity.
 
 - The ArcDev API **cannot** be used for stresstesting backend capabilities. Please use a localhost API instead to prevent overloading of our server resources.
 - Applications which are created by external parties that are intended to be built-in to the final frontend are required to be delivered to the frontend repository through a pull request so that it can be checked and later merged into the _master_ branch.
