@@ -12,6 +12,7 @@ In this document follows a list of policies which ArcOS developers are required 
 | The General Running Development Board (GRDB) | The ArcOS Project Board on GitHub |
 | The Design Team (DT) | Users responsible for auditing designs and verifying wallpapers before addition to the codebase. |
 | Quality Control (QC) | team members responsible for checking a release candidate (a build compiled right before release) to eliminate any bugs and imperfections |
+| Documentation Writing and Control (DWC) | team members responsible for writing and checking ArcOS documentation. |
 
 ## Team Assignments
 | Team | Members |
@@ -22,6 +23,7 @@ In this document follows a list of policies which ArcOS developers are required 
 | LDT | Izaak, Siege |
 | DT | Izaak, Siege, Blocky |
 | QC | Siege, Izaak |
+| DWC | Blocky, Siege |
 
 
 ## The Policy
