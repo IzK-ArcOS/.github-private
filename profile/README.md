@@ -24,4 +24,5 @@ With ArcOS I want to have a backend running on NodeJS and then connect the front
 ## ...Why?
 
 > Because. Just, because.
-is the only logical response to that question, whenever someone asks it.
+
+...is the only logical response to that question, whenever someone asks it.
