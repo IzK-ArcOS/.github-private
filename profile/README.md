@@ -2,7 +2,7 @@
 
 > **Note**: Considering the fact that you are a part of the ArcOS organization, I must point you towards our discord server where most common discussions take place:
 > <br/><br/>
-> ![ArcOS Discord Server](https://invidget.switchblade.xyz/ARjRM6uNqf)
+> [![ArcOS Discord Server](https://invidget.switchblade.xyz/ARjRM6uNqf)](https://discord.gg/ARjRM6uNqf)
 
 ### Hi new developers!
 I sort of expect you to already know what ArcOS is, but if not, how are you even here? Just kidding. ArcOS is a Operating System Environment that runs ontop of the user's OS using Electron. It has its own API and a bunch of features that I can't bother lising here. Typing is hard.
