@@ -21,7 +21,7 @@ Any and all code written in this organization, either public or private, should 
 ## ArcOS as a Desktop App
 I still stand by the fact that the "immersive" concept for ArcOS (aka running in fullscreen and isolating from the rest of the underlying OS) is a fun idea that has to be implemented (spoiler alert: it's implemented :D)
 
-With ArcOS I want to have a backend running on NodeJS and then connect the frontend to the backend using some kind of user specified API address. Though, I don't want to create a seperate repository for the Desktop Frontend. With another project of mine, SchoolSystem, I had a frontend for the desktop app and a frontend for the web version. With ArcOS, I want to be able to use the same `ArcOS-Frontend` repository for both the web version and desktop app. (oh this happened already)
+With ArcOS I want to have a backend running on Python and then connect the frontend to the backend using some kind of user specified API address. Though, I don't want to create a seperate repository for the Desktop Frontend. With another project of mine, SchoolSystem, I had a frontend for the desktop app and a frontend for the web version. With ArcOS, I want to be able to use the same `ArcOS-Frontend` repository for both the web version and desktop app. (oh this happened already)
 
 ## ...Why?
 
